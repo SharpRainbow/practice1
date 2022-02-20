@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="android_image">android_image</string>
+    <string name="mirea">Mirea</string>
+    <string name="name">Name:</string>
+    <string name="mobile">(Mobile)</string>
+    <string name="organisation">Organisation:</string>
+    <string name="call_button">call_button</string>
+    <string name="alexey_panin">Alexey Panin</string>
+    <string name="_7_985_554_12_12">+7(985)554-12-12</string>
+    <string name="save">Save</string>
+    <string name="button">Button</string>
+
+</resources>
