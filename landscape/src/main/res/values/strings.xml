@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="new_life_for_mirea_activity">new life for mirea activity</string>
+    <string name="btn1">ПЕРВАЯ КНОПКА</string>
+    <string name="btn2">ВТОРАЯ КНОПКА</string>
+    <string name="btn3">ТРЕТЬЯ КНОПКА</string>
+    <string name="btn4">ЧЕТВЕРТАЯ КНОПКА</string>
+    <string name="btn5">ПЯТАЯ КНОПКА</string>
+    <string name="btn6">ШЕСТАЯ КНОПКА</string>
+</resources>
